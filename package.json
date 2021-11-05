@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrebla84/nodejs-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otrebla84/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/otrebla84/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module",
+  "engines": {
+    "node": "14.18.1"
+  }
+}
